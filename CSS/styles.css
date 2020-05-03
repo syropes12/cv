@@ -1,0 +1,143 @@
+/*******************ELEMENTS CONNECTORS*******************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+h1 {
+  font-size: 5.625em;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+
+
+
+/*******************CLASS CONNECTORS*********************/
+.top-container {
+    background-color: #EAF6F6;
+}
+.MeImage{
+  width: 15%;
+}
+.top-filler {
+  height:100px;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.middleContainerText {
+  width: 30%;
+  font-size: small;
+  margin: auto;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+.contact-meText {
+  width: 40%
+  margin: 40px auto 60px;
+  font-size: small;
+
+}
+
+.top-cloud {
+  position: relative;
+
+  left: 200px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+  font-size: small;
+}
+.skillRowImage1 {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.skillRowImage2 {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.btn {
+margin-top: 10px;
+  color: rgb(230, 230, 230);
+font-size: 20px;
+font-family: 'Montserrat', sans-serif;
+padding: 5px;
+text-shadow: 0px 0px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 17.43243243243243px;
+-moz-border-radius: 17.43243243243243px;
+border-radius: 17.43243243243243px;
+background: rgb(68, 208, 109);
+background: -moz-linear-gradient(14deg, rgb(68, 208, 109) 60%, rgb(42, 219, 125) 89%);
+background: -webkit-linear-gradient(14deg, rgb(68, 208, 109) 60%, rgb(42, 219, 125) 89%);
+background: -o-linear-gradient(14deg, rgb(68, 208, 109) 60%, rgb(42, 219, 125) 89%);
+background: -ms-linear-gradient(14deg, rgb(68, 208, 109) 60%, rgb(42, 219, 125) 89%);
+background: linear-gradient(284deg, rgb(68, 208, 109) 60%, rgb(42, 219, 125) 89%);
+-webkit-box-shadow: 0px 0px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 0px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 0px 1px rgba(50, 50, 50, 0.75);
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: xx-small;
+  padding: 20px 0;
+}
+
+
+
+
+
+/******************ID CONNECTORS*************************/
